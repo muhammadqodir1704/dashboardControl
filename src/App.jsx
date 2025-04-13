@@ -1,12 +1,12 @@
-import Dashboard from "./components/Dashboard";
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
     <div>
-      <h1>Dashboard Constructor</h1>
-      <Dashboard />
+      Assalomu alaykum!
+      WebSayt tez orada ishga tushadi!
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
